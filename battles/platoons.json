@@ -1,0 +1,1607 @@
+[
+        {
+            "name": "phase06_conflict03_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SABINEWRENS3", "POE", "PAPLOO", "CHIEFNEBIT", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "EWOKELDER", "RESISTANCETROOPER", "CHOPPERS3", "KITFISTO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "LOBOT", "CC2224", "BIGGSDARKLIGHTER", "REY" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SABINEWRENS3", "POE", "PAPLOO", "CHIEFNEBIT", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "EWOKELDER", "RESISTANCETROOPER", "CHOPPERS3", "KITFISTO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "LOBOT", "CC2224", "BIGGSDARKLIGHTER", "REY" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ZEBS3", "KANANJARRUSS3", "SABINEWRENS3", "LOBOT", "ADMIRALACKBAR" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "KANANJARRUSS3", "ADMIRALACKBAR", "EZRABRIDGERS3", "STORMTROOPERHAN", "WEDGEANTILLES" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "HERASYNDULLAS3", "LUKESKYWALKER", "BIGGSDARKLIGHTER", "LOBOT", "SABINEWRENS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ZEBS3", "KANANJARRUSS3", "SABINEWRENS3", "LOBOT", "ADMIRALACKBAR" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "KANANJARRUSS3", "ADMIRALACKBAR", "EZRABRIDGERS3", "STORMTROOPERHAN", "WEDGEANTILLES" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EZRABRIDGERS3", "KANANJARRUSS3", "SABINEWRENS3", "ZEBS3", "CHOPPERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ZEBS3", "KANANJARRUSS3", "SABINEWRENS3", "LOBOT", "ADMIRALACKBAR" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "KANANJARRUSS3", "ADMIRALACKBAR", "EZRABRIDGERS3", "STORMTROOPERHAN", "WEDGEANTILLES" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EZRABRIDGERS3", "KANANJARRUSS3", "SABINEWRENS3", "ZEBS3", "CHOPPERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "R2D2_LEGENDARY", "ZEBS3", "WEDGEANTILLES", "EZRABRIDGERS3", "SABINEWRENS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "R2D2_LEGENDARY", "MACEWINDU", "JAWASCAVENGER", "ANAKINKNIGHT", "CHOPPERS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "R2D2_LEGENDARY", "JAWAENGINEER", "PRINCESSLEIA", "CT5555", "CT210408" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase02_conflict02_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "SCARIFREBEL", "SABINEWRENS3", "PRINCESSLEIA", "BISTAN" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "SCARIFREBEL", "SABINEWRENS3", "PRINCESSLEIA", "BISTAN" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "PAO", "BODHIROOK", "SCARIFREBEL", "K2SO", "BAZEMALBUS" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "R2D2_LEGENDARY", "FINN", "BIGGSDARKLIGHTER", "REY", "JAWASCAVENGER" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "R2D2_LEGENDARY", "QUIGONJINN", "PAO", "JAWAENGINEER", "REY" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EZRABRIDGERS3", "KANANJARRUSS3", "SABINEWRENS3", "ZEBS3", "CHOPPERS3" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase02_conflict01_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "SCARIFREBEL", "SABINEWRENS3", "PRINCESSLEIA", "BISTAN" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "SCARIFREBEL", "SABINEWRENS3", "PRINCESSLEIA", "BISTAN" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "PAO", "BODHIROOK", "SCARIFREBEL", "K2SO", "BAZEMALBUS" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "R2D2_LEGENDARY", "FINN", "BIGGSDARKLIGHTER", "REY", "JAWASCAVENGER" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "R2D2_LEGENDARY", "QUIGONJINN", "PAO", "JAWAENGINEER", "REY" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EZRABRIDGERS3", "KANANJARRUSS3", "SABINEWRENS3", "ZEBS3", "CHOPPERS3" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase05_conflict01_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ARC170CLONESERGEANT", "GEONOSIANSTARFIGHTER1", "XWINGRED3", "UMBARANSTARFIGHTER", "ARC170REX" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "BLADEOFDORIN", "UWINGSCARIF", "XWINGRESISTANCE", "GAUNTLETSTARFIGHTER", "JEDISTARFIGHTERCONSULAR" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "MILLENNIUMFALCONEP7", "TIEFIGHTERFIRSTORDER", "GEONOSIANSTARFIGHTER2", "TIEADVANCED", "TIEFIGHTERIMPERIAL" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ARC170CLONESERGEANT", "GEONOSIANSTARFIGHTER1", "XWINGRED3", "UMBARANSTARFIGHTER", "ARC170REX" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "BLADEOFDORIN", "UWINGSCARIF", "XWINGRESISTANCE", "GAUNTLETSTARFIGHTER", "JEDISTARFIGHTERCONSULAR" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "MILLENNIUMFALCONEP7", "TIEFIGHTERFIRSTORDER", "GEONOSIANSTARFIGHTER2", "TIEADVANCED", "TIEFIGHTERIMPERIAL" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase04_conflict01_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ARC170CLONESERGEANT", "GEONOSIANSTARFIGHTER1", "XWINGRED3", "UMBARANSTARFIGHTER", "ARC170REX" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "BLADEOFDORIN", "UWINGSCARIF", "XWINGRESISTANCE", "GAUNTLETSTARFIGHTER", "JEDISTARFIGHTERCONSULAR" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "MILLENNIUMFALCONEP7", "TIEFIGHTERFIRSTORDER", "GEONOSIANSTARFIGHTER2", "TIEADVANCED", "TIEFIGHTERIMPERIAL" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ARC170CLONESERGEANT", "GEONOSIANSTARFIGHTER1", "XWINGRED3", "UMBARANSTARFIGHTER", "ARC170REX" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "BLADEOFDORIN", "UWINGSCARIF", "XWINGRESISTANCE", "GAUNTLETSTARFIGHTER", "JEDISTARFIGHTERCONSULAR" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "MILLENNIUMFALCONEP7", "TIEFIGHTERFIRSTORDER", "GEONOSIANSTARFIGHTER2", "TIEADVANCED", "TIEFIGHTERIMPERIAL" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase04_conflict02_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "SCARIFREBEL", "SABINEWRENS3", "PRINCESSLEIA", "BISTAN" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "SCARIFREBEL", "SABINEWRENS3", "PRINCESSLEIA", "BISTAN" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "PAO", "BODHIROOK", "SCARIFREBEL", "K2SO", "BAZEMALBUS" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "R2D2_LEGENDARY", "FINN", "BIGGSDARKLIGHTER", "REY", "JAWASCAVENGER" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "R2D2_LEGENDARY", "QUIGONJINN", "PAO", "JAWAENGINEER", "REY" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EZRABRIDGERS3", "KANANJARRUSS3", "SABINEWRENS3", "ZEBS3", "CHOPPERS3" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase05_conflict03_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "JEDIKNIGHTCONSULAR", "CLONEWARSCHEWBACCA", "POE", "K2SO", "MACEWINDU" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "WEDGEANTILLES", "QUIGONJINN", "BODHIROOK", "CT210408", "RESISTANCEPILOT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EWOKELDER", "CORUSCANTUNDERWORLDPOLICE", "PAO", "DATHCHA", "BODHIROOK" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "JEDIKNIGHTCONSULAR", "CLONEWARSCHEWBACCA", "POE", "K2SO", "MACEWINDU" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "WEDGEANTILLES", "QUIGONJINN", "BODHIROOK", "CT210408", "RESISTANCEPILOT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EWOKELDER", "CORUSCANTUNDERWORLDPOLICE", "PAO", "DATHCHA", "BODHIROOK" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ADMIRALACKBAR", "ADMINISTRATORLANDO", "CASSIANANDOR", "LUKESKYWALKER", "JYNERSO" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "LOBOT", "BODHIROOK", "SCARIFREBEL", "PAO", "JYNERSO" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "PAO", "BODHIROOK", "SCARIFREBEL", "K2SO", "BAZEMALBUS" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ADMIRALACKBAR", "ADMINISTRATORLANDO", "CASSIANANDOR", "LUKESKYWALKER", "JYNERSO" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "LOBOT", "BODHIROOK", "SCARIFREBEL", "PAO", "JYNERSO" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EZRABRIDGERS3", "KANANJARRUSS3", "SABINEWRENS3", "ZEBS3", "CHOPPERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ADMIRALACKBAR", "ADMINISTRATORLANDO", "CASSIANANDOR", "LUKESKYWALKER", "JYNERSO" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "LOBOT", "BODHIROOK", "SCARIFREBEL", "PAO", "JYNERSO" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "PAO", "BODHIROOK", "SCARIFREBEL", "K2SO", "BAZEMALBUS" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "R2D2_LEGENDARY", "SCARIFREBEL", "ANAKINKNIGHT", "PAPLOO", "FULCRUMAHSOKA" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "R2D2_LEGENDARY", "CLONEWARSCHEWBACCA", "KITFISTO", "LUKESKYWALKER", "JEDIKNIGHTCONSULAR" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "R2D2_LEGENDARY", "QUIGONJINN", "JEDIKNIGHTGUARDIAN", "PRINCESSLEIA", "PAO" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase04_conflict03_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "SCARIFREBEL", "SABINEWRENS3", "PRINCESSLEIA", "BISTAN" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "SCARIFREBEL", "SABINEWRENS3", "PRINCESSLEIA", "BISTAN" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "PAO", "BODHIROOK", "SCARIFREBEL", "K2SO", "BAZEMALBUS" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "R2D2_LEGENDARY", "FINN", "BIGGSDARKLIGHTER", "REY", "JAWASCAVENGER" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "R2D2_LEGENDARY", "QUIGONJINN", "PAO", "JAWAENGINEER", "REY" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EZRABRIDGERS3", "KANANJARRUSS3", "SABINEWRENS3", "ZEBS3", "CHOPPERS3" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase05_conflict02_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "JEDIKNIGHTCONSULAR", "CLONEWARSCHEWBACCA", "POE", "K2SO", "MACEWINDU" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "WEDGEANTILLES", "QUIGONJINN", "BODHIROOK", "CT210408", "RESISTANCEPILOT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EWOKELDER", "CORUSCANTUNDERWORLDPOLICE", "PAO", "DATHCHA", "BODHIROOK" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "JEDIKNIGHTCONSULAR", "CLONEWARSCHEWBACCA", "POE", "K2SO", "MACEWINDU" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "WEDGEANTILLES", "QUIGONJINN", "BODHIROOK", "CT210408", "RESISTANCEPILOT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EWOKELDER", "CORUSCANTUNDERWORLDPOLICE", "PAO", "DATHCHA", "BODHIROOK" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ADMIRALACKBAR", "ADMINISTRATORLANDO", "CASSIANANDOR", "LUKESKYWALKER", "JYNERSO" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "LOBOT", "BODHIROOK", "SCARIFREBEL", "PAO", "JYNERSO" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "PRINCESSLEIA", "LOBOT" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ADMIRALACKBAR", "ADMINISTRATORLANDO", "CASSIANANDOR", "LUKESKYWALKER", "JYNERSO" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "LOBOT", "BODHIROOK", "SCARIFREBEL", "PAO", "JYNERSO" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "PRINCESSLEIA", "LOBOT" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ADMIRALACKBAR", "ADMINISTRATORLANDO", "CASSIANANDOR", "LUKESKYWALKER", "JYNERSO" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "LOBOT", "BODHIROOK", "SCARIFREBEL", "PAO", "JYNERSO" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "PAO", "BODHIROOK", "SCARIFREBEL", "K2SO", "BAZEMALBUS" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "R2D2_LEGENDARY", "SCARIFREBEL", "ANAKINKNIGHT", "PAPLOO", "FULCRUMAHSOKA" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "R2D2_LEGENDARY", "CLONEWARSCHEWBACCA", "KITFISTO", "LUKESKYWALKER", "JEDIKNIGHTCONSULAR" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "R2D2_LEGENDARY", "QUIGONJINN", "JEDIKNIGHTGUARDIAN", "PRINCESSLEIA", "PAO" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase03_conflict02_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "SCARIFREBEL", "SABINEWRENS3", "PRINCESSLEIA", "BISTAN" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "SCARIFREBEL", "SABINEWRENS3", "PRINCESSLEIA", "BISTAN" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "PAO", "BODHIROOK", "SCARIFREBEL", "K2SO", "BAZEMALBUS" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "R2D2_LEGENDARY", "FINN", "BIGGSDARKLIGHTER", "REY", "JAWASCAVENGER" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "R2D2_LEGENDARY", "QUIGONJINN", "PAO", "JAWAENGINEER", "REY" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EZRABRIDGERS3", "KANANJARRUSS3", "SABINEWRENS3", "ZEBS3", "CHOPPERS3" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase06_conflict02_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SABINEWRENS3", "POE", "PAPLOO", "CHIEFNEBIT", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "EWOKELDER", "RESISTANCETROOPER", "CHOPPERS3", "KITFISTO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "LOBOT", "CC2224", "BIGGSDARKLIGHTER", "REY" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SABINEWRENS3", "POE", "PAPLOO", "CHIEFNEBIT", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "EWOKELDER", "RESISTANCETROOPER", "CHOPPERS3", "KITFISTO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "LOBOT", "CC2224", "BIGGSDARKLIGHTER", "REY" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ZEBS3", "KANANJARRUSS3", "SABINEWRENS3", "LOBOT", "ADMIRALACKBAR" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "KANANJARRUSS3", "ADMIRALACKBAR", "EZRABRIDGERS3", "STORMTROOPERHAN", "WEDGEANTILLES" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "HERASYNDULLAS3", "LUKESKYWALKER", "BIGGSDARKLIGHTER", "LOBOT", "SABINEWRENS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ZEBS3", "KANANJARRUSS3", "SABINEWRENS3", "LOBOT", "ADMIRALACKBAR" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "KANANJARRUSS3", "ADMIRALACKBAR", "EZRABRIDGERS3", "STORMTROOPERHAN", "WEDGEANTILLES" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "HERASYNDULLAS3", "LUKESKYWALKER", "BIGGSDARKLIGHTER", "LOBOT", "SABINEWRENS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ZEBS3", "KANANJARRUSS3", "SABINEWRENS3", "LOBOT", "ADMIRALACKBAR" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "KANANJARRUSS3", "ADMIRALACKBAR", "EZRABRIDGERS3", "STORMTROOPERHAN", "WEDGEANTILLES" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EZRABRIDGERS3", "KANANJARRUSS3", "SABINEWRENS3", "ZEBS3", "CHOPPERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "R2D2_LEGENDARY", "ZEBS3", "WEDGEANTILLES", "EZRABRIDGERS3", "SABINEWRENS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "R2D2_LEGENDARY", "MACEWINDU", "JAWASCAVENGER", "ANAKINKNIGHT", "CHOPPERS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "R2D2_LEGENDARY", "JAWAENGINEER", "PRINCESSLEIA", "CT5555", "CT210408" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase01_conflict01_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "PAO", "BODHIROOK", "SCARIFREBEL", "K2SO", "BAZEMALBUS" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "R2D2_LEGENDARY", "FINN", "BIGGSDARKLIGHTER", "REY", "JAWASCAVENGER" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "R2D2_LEGENDARY", "QUIGONJINN", "PAO", "JAWAENGINEER", "REY" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EZRABRIDGERS3", "KANANJARRUSS3", "SABINEWRENS3", "ZEBS3", "CHOPPERS3" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase03_conflict01_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ARC170CLONESERGEANT", "GEONOSIANSTARFIGHTER1", "XWINGRED3", "UMBARANSTARFIGHTER", "ARC170REX" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "BLADEOFDORIN", "UWINGSCARIF", "XWINGRESISTANCE", "GAUNTLETSTARFIGHTER", "JEDISTARFIGHTERCONSULAR" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "MILLENNIUMFALCONEP7", "TIEFIGHTERFIRSTORDER", "GEONOSIANSTARFIGHTER2", "TIEADVANCED", "TIEFIGHTERIMPERIAL" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ARC170CLONESERGEANT", "GEONOSIANSTARFIGHTER1", "XWINGRED3", "UMBARANSTARFIGHTER", "ARC170REX" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "BLADEOFDORIN", "UWINGSCARIF", "XWINGRESISTANCE", "GAUNTLETSTARFIGHTER", "JEDISTARFIGHTERCONSULAR" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "MILLENNIUMFALCONEP7", "TIEFIGHTERFIRSTORDER", "GEONOSIANSTARFIGHTER2", "TIEADVANCED", "TIEFIGHTERIMPERIAL" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase03_conflict03_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "KITFISTO", "EWOKSCOUT", "RESISTANCEPILOT", "PAO", "BARRISSOFFEE" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "RESISTANCETROOPER", "WEDGEANTILLES", "POE", "K2SO", "DATHCHA" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIEFNEBIT", "RESISTANCETROOPER", "CT5555", "CC2224", "EZRABRIDGERS3" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "SCARIFREBEL", "SABINEWRENS3", "PRINCESSLEIA", "BISTAN" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "CHIRRUTIMWE", "SCARIFREBEL", "SABINEWRENS3", "PRINCESSLEIA", "BISTAN" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "SCARIFREBEL", "ADMINISTRATORLANDO", "STORMTROOPERHAN", "ZEBS3", "EZRABRIDGERS3" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "STORMTROOPERHAN", "HERASYNDULLAS3", "K2SO", "SABINEWRENS3", "ZEBS3" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "PAO", "BODHIROOK", "SCARIFREBEL", "K2SO", "BAZEMALBUS" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "R2D2_LEGENDARY", "FINN", "BIGGSDARKLIGHTER", "REY", "JAWASCAVENGER" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "R2D2_LEGENDARY", "QUIGONJINN", "PAO", "JAWAENGINEER", "REY" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "EZRABRIDGERS3", "KANANJARRUSS3", "SABINEWRENS3", "ZEBS3", "CHOPPERS3" ]
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "name": "phase06_conflict01_recon01",
+            "platoons": [
+            {
+                "name": "hoth-platoon-1",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-2",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-3",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-4",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "XWINGBLACKONE", "TIEFIGHTERIMPERIAL", "JEDISTARFIGHTERCONSULAR", "GEONOSIANSTARFIGHTER1", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "XWINGRED3", "TIEFIGHTERFIRSTORDER", "JEDISTARFIGHTERAHSOKATANO", "XWINGRESISTANCE", "ARC170CLONESERGEANT" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "TIEFIGHTERFIRSTORDER", "XWINGRED2", "GAUNTLETSTARFIGHTER", "XWINGRED3", "ARC170REX" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-5",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ARC170CLONESERGEANT", "GEONOSIANSTARFIGHTER1", "XWINGRED3", "UMBARANSTARFIGHTER", "ARC170REX" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "BLADEOFDORIN", "UWINGSCARIF", "XWINGRESISTANCE", "GAUNTLETSTARFIGHTER", "JEDISTARFIGHTERCONSULAR" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "MILLENNIUMFALCONEP7", "TIEFIGHTERFIRSTORDER", "GEONOSIANSTARFIGHTER2", "TIEADVANCED", "TIEFIGHTERIMPERIAL" ]
+                }
+                ]
+            },
+            {
+                "name": "hoth-platoon-6",
+                "squads": [
+                {
+                    "name": "hoth-squad-02",
+                    "members": [ "ARC170CLONESERGEANT", "GEONOSIANSTARFIGHTER1", "XWINGRED3", "UMBARANSTARFIGHTER", "ARC170REX" ]
+                },
+                {
+                    "name": "hoth-squad-01",
+                    "members": [ "BLADEOFDORIN", "UWINGSCARIF", "XWINGRESISTANCE", "GAUNTLETSTARFIGHTER", "JEDISTARFIGHTERCONSULAR" ]
+                },
+                {
+                    "name": "hoth-squad-03",
+                    "members": [ "MILLENNIUMFALCONEP7", "TIEFIGHTERFIRSTORDER", "GEONOSIANSTARFIGHTER2", "TIEADVANCED", "TIEFIGHTERIMPERIAL" ]
+                }
+                ]
+            }
+            ]
+        }
+    ]

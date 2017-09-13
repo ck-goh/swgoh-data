@@ -1,0 +1,80 @@
+#filedrag {
+    border: 10px dashed #ccc;
+    width: 200px;
+    min-height: 200px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#filedrag span {
+    flex: 0 0 auto;
+}
+
+#filedrag.hover { border: 10px dashed #0c0; }
+
+* { margin:0; padding: 0}
+
+#loaded {
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    width:100vw
+}
+
+.infobar { height: 320px; flex: 0 0 auto; display: flex; justify-content: center; align-items: center; }
+.warnings { width: 30em; height: 100%; margin-top: 2em; margin-left: 1em; }
+.fatal { color: #b32d00; }
+.toofew { color: #999900; }
+.close { color: #806000; }
+svg.map{height: 100%; flex:0 0 auto}
+svg.map path{stroke:#ddf;stroke-width:3px;fill:#77b}
+svg.map path:hover{stroke:#eef;fill:#99c}
+svg.map path.active{stroke:#eef;fill:#99c}
+svg text{text-anchor:middle;alignment-baseline:middle;font-size:0.9vw;fill:white;text-shadow:#777 2px 2px;pointer-events:none}
+
+
+.platoons { flex:1 1 auto; display:flex; flex-direction: column; justify-content:space-evenly; margin-top: 2em; }
+.platoons .row { flex: 0 0 auto; width: 1800px; display: flex; justify-content: space-evenly; margin: 0.5em; }
+.platoon {
+    flex:0 0 auto;
+    width: 850px;
+    display:flex;
+    flex-flow:column;
+    border:2px solid #777;
+    border-radius:10px;
+    justify-content:space-evenly;
+    align-content:space-around;
+    background:#e6e6ff;
+    color: #222;
+}
+.squad {
+    display: flex;
+    justify-content: space-evenly;
+}
+.squad div {
+    flex: 0 0 20%;
+    font-size: 12pt;
+    padding: 0.5em 0;
+    height: 2.2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.platoon .toon{flex:0 0 auto;width:25%;position:relative;padding-top:25%;margin:3px 3% 3px 3%}
+.portrait{box-shadow:0 0 2px #222;border-radius:50%;position:absolute;top:0;bottom:0;left:0;right:0}
+.portrait img{width:100%;border-radius:50%}
+.portrait .border{background-image:url(https://swgoh.gg/static/img/ui/gear-icon-g1.svg);position:absolute;top:0;left:0;right:0;bottom:0;z-index:2;opacity:75%}
+.portrait .star{position:absolute;bottom:50%;left:50%;width:1.2em;height:65%;transform-origin:center bottom;vertical-align:top;z-index:3;font-size:0.5vw}
+.star-1{transform:translateX(-50%) rotate(-60deg)}
+.star-2{transform:translateX(-50%) rotate(-40deg)}
+.star-3{transform:translateX(-50%) rotate(-20deg)}
+.star-4{transform:translateX(-50%) rotate(0deg)}
+.star-5{transform:translateX(-50%) rotate(20deg)}
+.star-6{transform:translateX(-50%) rotate(40deg)}
+.star-7{transform:translateX(-50%) rotate(60deg)}
+.portrait .name{display:none;width:100%;font-size:0.5vw;color:#fff;text-shadow:#888 1px 1px;text-align:center;line-height:1;height:30%}

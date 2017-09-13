@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<head>
+  <title>Territory Battles</title>
+  <link rel="stylesheet" href="battles.css" type="text/css">
+</head>
+<body>
+    <div id="loaded">
+        <div class="infobar">
+            <svg class="map" viewBox="0 0 610 310" preserveAspectRatio="xMidYMid">
+                <path id="phase01_conflict01" d="M105,305 L25,305 L5,285 L5,25 L25,5 L105,5Z" class="active"/>
+                <path id="phase02_conflict01" d="M105,5 L105,155 L205,155 L205,5Z"/>
+                <path id="phase02_conflict02" d="M105,305 L105,155 L205,155 L205,305Z"/>
+                <path id="phase03_conflict01" d="M205,5 L305,5 L305,105 L205,105Z"/>
+                <path id="phase03_conflict02" d="M205,105 L305,105 L305,205 L205,205Z"/>
+                <path id="phase03_conflict03" d="M205,205 L305,205 L305,305 L205,305Z"/>
+                <path id="phase04_conflict01" d="M305,5   L405,5   L405,105 L305,105Z"/>
+                <path id="phase04_conflict02" d="M305,105 L405,105 L405,205 L305,205Z"/>
+                <path id="phase04_conflict03" d="M305,205 L405,205 L405,305 L305,305Z"/>
+                <path id="phase05_conflict01" d="M405,5   L505,5   L505,105 L405,105Z"/>
+                <path id="phase05_conflict02" d="M405,105 L505,105 L505,205 L405,205Z"/>
+                <path id="phase05_conflict03" d="M405,205 L505,205 L505,305 L405,305Z"/>
+                <path id="phase06_conflict01" d="M505,5   L585,5   L605,25 L605,105 L505,105Z"/>
+                <path id="phase06_conflict02" d="M505,105 L605,105 L605,205 L505,205Z"/>
+                <path id="phase06_conflict03" d="M505,205 L605,205 L605,285 L585,305 L505,305Z"/>
+                <text>
+                    <tspan x="55" y="155">Rebel Base</tspan>
+                    <tspan x="155" y="72">Ion</tspan><tspan x="155" y="88">Cannon</tspan>
+                    <tspan x="155" y="230">Overlook</tspan>
+                    <tspan x="255" y="52">Rear</tspan><tspan x="255" y="68">Airspace</tspan>
+                    <tspan x="255" y="152">Rear</tspan><tspan x="255" y="168">Trenches</tspan>
+                    <tspan x="255" y="252">Power</tspan><tspan x="255" y="268">Generator</tspan>
+                    <tspan x="355" y="52">Forward</tspan><tspan x="355" y="68">Airspace</tspan>
+                    <tspan x="355" y="152">Forward</tspan><tspan x="355" y="168">Trenches</tspan>
+                    <tspan x="355" y="252">Outer</tspan><tspan x="355" y="268">Pass</tspan>
+                    <tspan x="455" y="52">Contested</tspan><tspan x="455" y="68">Airspace</tspan>
+                    <tspan x="455" y="160">Snowfields</tspan>
+                    <tspan x="455" y="252">Forward</tspan><tspan x="455" y="268">Stronghold</tspan>
+                    <tspan x="555" y="36">Imperial</tspan><tspan x="555" y="52">Fleet</tspan>
+                    <tspan x="555" y="68">Staging</tspan><tspan x="555" y="84">Area</tspan>
+                    <tspan x="555" y="152">Imperial</tspan><tspan x="555" y="168">Flank</tspan>
+                    <tspan x="555" y="252">Imperial</tspan><tspan x="555" y="268">Landing</tspan>
+                </text>
+            </svg>
+            <div class="warnings">
+            </div>
+        </div>
+        <div class="platoons">
+            <div class="row">
+                <div class="platoon" id="hoth-platoon-1"></div>
+                <div class="platoon" id="hoth-platoon-4"></div>
+            </div>
+            <div class="row">
+                <div class="platoon" id="hoth-platoon-2"></div>
+                <div class="platoon" id="hoth-platoon-5"></div>
+            </div>
+            <div class="row">
+                <div class="platoon" id="hoth-platoon-3"></div>
+                <div class="platoon" id="hoth-platoon-6"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="battles.js"></script>
+</body>
