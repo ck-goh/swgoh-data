@@ -223,31 +223,31 @@
                 {
                   "name": "hoth-squad-02",
                   "members": [
-                      "JEDIKNIGHTGUARDIAN:FIVE_STAR",
-                      "JAWAENGINEER:SEVEN_STAR",
-                      "CHIEFCHIRPA:SEVEN_STAR",
-                      "AHSOKATANO:SEVEN_STAR",
-                      "JYNERSO:SEVEN_STAR"
+                      "JEDIKNIGHTGUARDIAN",
+                      "JAWAENGINEER",
+                      "CHIEFCHIRPA",
+                      "AHSOKATANO",
+                      "JYNERSO"
                   ]
                 },
                 {
                   "name": "hoth-squad-01",
                   "members": [
-                      "LOBOT:FIVE_STAR",
-                      "JEDIKNIGHTCONSULAR:SIX_STAR",
-                      "CLONESERGEANTPHASEI:SEVEN_STAR",
-                      "SCARIFREBEL:SEVEN_STAR",
-                      "BODHIROOK:SEVEN_STAR"
+                      "LOBOT",
+                      "JEDIKNIGHTCONSULAR",
+                      "CLONESERGEANTPHASEI",
+                      "SCARIFREBEL",
+                      "BODHIROOK"
                   ]
                 },
                 {
                   "name": "hoth-squad-03",
                   "members": [
-                      "RESISTANCETROOPER:SEVEN_STAR",
-                      "ADMINISTRATORLANDO:SEVEN_STAR",
-                      "MACEWINDU:SEVEN_STAR",
-                      "JEDIKNIGHTCONSULAR:SIX_STAR",
-                      "LUKESKYWALKER:SEVEN_STAR"
+                      "RESISTANCETROOPER",
+                      "ADMINISTRATORLANDO",
+                      "MACEWINDU",
+                      "JEDIKNIGHTCONSULAR",
+                      "LUKESKYWALKER"
                   ]
                 }
               ]
@@ -258,31 +258,31 @@
                 {
                   "name": "hoth-squad-02",
                   "members": [
-                      "SCARIFREBEL:TWO_STAR",
-                      "K2SO:SEVEN_STAR",
-                      "UGNAUGHT:TWO_STAR",
-                      "JAWASCAVENGER:SEVEN_STAR",
-                      "RESISTANCETROOPER:SEVEN_STAR"
+                      "SCARIFREBEL",
+                      "K2SO",
+                      "UGNAUGHT",
+                      "JAWASCAVENGER",
+                      "RESISTANCETROOPER"
                   ]
                 },
                 {
                   "name": "hoth-squad-01",
                   "members": [
-                      "JAWASCAVENGER:SEVEN_STAR",
-                      "CT210408:THREE_STAR",
-                      "SCARIFREBEL:SEVEN_STAR",
-                      "PRINCESSLEIA:SEVEN_STAR",
-                      "EETHKOTH:SIX_STAR"
+                      "JAWASCAVENGER",
+                      "CT210408",
+                      "SCARIFREBEL",
+                      "PRINCESSLEIA",
+                      "EETHKOTH"
                   ]
                 },
                 {
                   "name": "hoth-squad-03",
                   "members": [
-                      "KITFISTO:THREE_STAR",
-                      "RESISTANCETROOPER:SEVEN_STAR",
-                      "LOGRAY:THREE_STAR",
-                      "STORMTROOPERHAN:SEVEN_STAR",
-                      "QUIGONJINN:SEVEN_STAR"
+                      "KITFISTO",
+                      "RESISTANCETROOPER",
+                      "LOGRAY",
+                      "STORMTROOPERHAN",
+                      "QUIGONJINN"
                   ]
                 }
               ]
@@ -293,31 +293,31 @@
                 {
                   "name": "hoth-squad-02",
                   "members": [
-                      "CORUSCANTUNDERWORLDPOLICE:TWO_STAR",
-                      "IMAGUNDI:FIVE_STAR",
-                      "LUKESKYWALKER:SEVEN_STAR",
-                      "PLOKOON:THREE_STAR",
-                      "SCARIFREBEL:SEVEN_STAR"
+                      "CORUSCANTUNDERWORLDPOLICE",
+                      "IMAGUNDI",
+                      "LUKESKYWALKER",
+                      "PLOKOON",
+                      "SCARIFREBEL"
                   ]
                 },
                 {
                   "name": "hoth-squad-01",
                   "members": [
-                      "CT5555:SEVEN_STAR",
-                      "PLOKOON:SIX_STAR",
-                      "PRINCESSLEIA:SEVEN_STAR",
-                      "EETHKOTH:FOUR_STAR",
-                      "LUKESKYWALKER:SEVEN_STAR"
+                      "CT5555",
+                      "PLOKOON",
+                      "PRINCESSLEIA",
+                      "EETHKOTH",
+                      "LUKESKYWALKER"
                   ]
                 },
                 {
                   "name": "hoth-squad-03",
                   "members": [
-                      "PAPLOO:THREE_STAR",
-                      "FULCRUMAHSOKA:THREE_STAR",
-                      "SCARIFREBEL:THREE_STAR",
-                      "LOBOT:FOUR_STAR",
-                      "CT5555:SEVEN_STAR"
+                      "PAPLOO",
+                      "FULCRUMAHSOKA",
+                      "SCARIFREBEL",
+                      "LOBOT",
+                      "CT5555"
                   ]
                 }
               ]
@@ -328,31 +328,31 @@
                 {
                   "name": "hoth-squad-02",
                   "members": [
-                      "JAWAENGINEER:SEVEN_STAR",
-                      "CHIEFCHIRPA:SEVEN_STAR",
-                      "JYNERSO:SEVEN_STAR",
-                      "CT7567:SEVEN_STAR",
-                      "ADMINISTRATORLANDO:SEVEN_STAR"
+                      "JAWAENGINEER",
+                      "CHIEFCHIRPA",
+                      "JYNERSO",
+                      "CT7567",
+                      "ADMINISTRATORLANDO"
                   ]
                 },
                 {
                   "name": "hoth-squad-01",
                   "members": [
-                      "ADMINISTRATORLANDO:SEVEN_STAR",
-                      "CT5555:SEVEN_STAR",
-                      "FINN:SEVEN_STAR",
-                      "JAWAENGINEER:SEVEN_STAR",
-                      "JYNERSO:SEVEN_STAR"
+                      "ADMINISTRATORLANDO",
+                      "CT5555",
+                      "FINN",
+                      "JAWAENGINEER",
+                      "JYNERSO"
                   ]
                 },
                 {
                   "name": "hoth-squad-03",
                   "members": [
-                      "CLONEWARSCHEWBACCA:SEVEN_STAR",
-                      "CHIRRUTIMWE:SEVEN_STAR",
-                      "CT5555:SEVEN_STAR",
-                      "CT210408:SIX_STAR",
-                      "EWOKSCOUT:SEVEN_STAR"
+                      "CLONEWARSCHEWBACCA",
+                      "CHIRRUTIMWE",
+                      "CT5555",
+                      "CT210408",
+                      "EWOKSCOUT"
                   ]
                 }
               ]
@@ -363,31 +363,31 @@
                 {
                   "name": "hoth-squad-02",
                   "members": [
-                      "BAZEMALBUS:FIVE_STAR",
-                      "LOBOT:FOUR_STAR",
-                      "ADMINISTRATORLANDO:SEVEN_STAR",
-                      "PAO:THREE_STAR",
-                      "BODHIROOK:TWO_STAR"
+                      "BAZEMALBUS",
+                      "LOBOT",
+                      "ADMINISTRATORLANDO",
+                      "PAO",
+                      "BODHIROOK"
                   ]
                 },
                 {
                   "name": "hoth-squad-01",
                   "members": [
-                      "K2SO:SEVEN_STAR",
-                      "LOBOT:THREE_STAR",
-                      "ADMINISTRATORLANDO:SEVEN_STAR",
-                      "SCARIFREBEL:FIVE_STAR",
-                      "BISTAN:SEVEN_STAR"
+                      "K2SO",
+                      "LOBOT",
+                      "ADMINISTRATORLANDO",
+                      "SCARIFREBEL",
+                      "BISTAN"
                   ]
                 },
                 {
                   "name": "hoth-squad-03",
                   "members": [
-                      "PAO:TWO_STAR",
-                      "SCARIFREBEL:FIVE_STAR",
-                      "BAZEMALBUS:FOUR_STAR",
-                      "K2SO:SEVEN_STAR",
-                      "JYNERSO:SIX_STAR"
+                      "PAO",
+                      "SCARIFREBEL",
+                      "BAZEMALBUS",
+                      "K2SO",
+                      "JYNERSO"
                   ]
                 }
               ]
@@ -398,31 +398,31 @@
                 {
                   "name": "hoth-squad-02",
                   "members": [
-                      "R2D2_LEGENDARY:SIX_STAR",
-                      "FULCRUMAHSOKA:THREE_STAR",
-                      "CLONEWARSCHEWBACCA:SEVEN_STAR",
-                      "PLOKOON:FIVE_STAR",
-                      "JAWASCAVENGER:SEVEN_STAR"
+                      "R2D2_LEGENDARY",
+                      "FULCRUMAHSOKA",
+                      "CLONEWARSCHEWBACCA",
+                      "PLOKOON",
+                      "JAWASCAVENGER"
                   ]
                 },
                 {
                   "name": "hoth-squad-01",
                   "members": [
-                      "R2D2_LEGENDARY:SEVEN_STAR",
-                      "BAZEMALBUS:FIVE_STAR",
-                      "LUMINARAUNDULI:SEVEN_STAR",
-                      "EWOKSCOUT:SEVEN_STAR",
-                      "RESISTANCETROOPER:SEVEN_STAR"
+                      "R2D2_LEGENDARY",
+                      "BAZEMALBUS",
+                      "LUMINARAUNDULI",
+                      "EWOKSCOUT",
+                      "RESISTANCETROOPER"
                   ]
                 },
                 {
                   "name": "hoth-squad-03",
                   "members": [
-                      "JYNERSO:SEVEN_STAR",
-                      "CHIRRUTIMWE:FOUR_STAR",
-                      "CASSIANANDOR:SEVEN_STAR",
-                      "K2SO:SEVEN_STAR",
-                      "SCARIFREBEL:FIVE_STAR"
+                      "JYNERSO",
+                      "CHIRRUTIMWE",
+                      "CASSIANANDOR",
+                      "K2SO",
+                      "SCARIFREBEL"
                   ]
                 }
               ]
