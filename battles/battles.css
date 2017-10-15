@@ -24,12 +24,12 @@
     width:100vw
 }
 
-.infobar { height: 320px; flex: 0 0 auto; display: flex; justify-content: center; align-items: center; }
+.infobar { flex: 0 0 auto; display: flex; flex-direction: column; justify-content: center; align-items: center; }
 .warnings { width: 30em; height: 100%; margin-top: 2em; margin-left: 1em; }
 .fatal { color: #b32d00; }
 .toofew { color: #999900; }
 .close { color: #806000; }
-svg.map{height: 100%; flex:0 0 auto}
+svg.map{height: 320px; flex:0 0 auto; margin: 0.5em;}
 svg.map path{stroke:#ddf;stroke-width:3px;fill:#77b}
 svg.map path:hover{stroke:#eef;fill:#99c}
 svg.map path.active{stroke:#eef;fill:#99c}
@@ -37,8 +37,8 @@ svg text{text-anchor:middle;alignment-baseline:middle;font-size:0.9vw;fill:white
 
 
 .platoons { flex:1 1 auto; display:flex; flex-direction: column; justify-content:space-evenly; margin-top: 2em; }
-.platoons .row { flex: 0 0 auto; width: 1800px; display: flex; justify-content: space-evenly; margin: 0.5em; }
 .platoon {
+    margin: 0.25em;
     flex:0 0 auto;
     width: 850px;
     display:flex;
