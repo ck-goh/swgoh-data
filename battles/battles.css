@@ -78,3 +78,16 @@ svg text{text-anchor:middle;alignment-baseline:middle;font-size:0.9vw;fill:white
 .star-6{transform:translateX(-50%) rotate(40deg)}
 .star-7{transform:translateX(-50%) rotate(60deg)}
 .portrait .name{display:none;width:100%;font-size:0.5vw;color:#fff;text-shadow:#888 1px 1px;text-align:center;line-height:1;height:30%}
+
+.planner [type="checkbox"] {
+    position: absolute;
+    left: -1000em;
+}
+
+.planner [type="checkbox"]:checked + label:before {
+  content: '\2705';
+}
+
+.planner [type="checkbox"]:not(:checked) + label:before {
+  content: '\26d4';
+}

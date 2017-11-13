@@ -28,6 +28,18 @@ Promise.all(['../units.json', 'guild-toons.json'].map(u => fetch(u).then(r => r.
             return sector;
         });
 
+        var planner = phase => {
+            if (phase == planner.lastPhase) return;
+            var sectors = platoons.filter(p => p.name.startsWith("phase0" + phase));
+            console.log(phase, sectors);
+            $('.planner').empty();
+            sectors.forEach(sector => {
+              
+            });
+            //<input type="checkbox" id="sector-3-squad-5" checked><label for="sector-3-squad-5"></label>
+        };
+        planner.lastPhase = -1;
+
         var platoon = pid => {
             var pnum = +pid.replace(/phase0(\d).*/, '$1');
             var p = platoons.filter(p => p.name === pid + "_recon01")[0].platoons;
@@ -89,6 +101,8 @@ Promise.all(['../units.json', 'guild-toons.json'].map(u => fetch(u).then(r => r.
                 toofew.forEach(f => $(".warnings").append(f));
                 close.forEach(f => $(".warnings").append(f));
             }
+
+            planner(pnum);
         };
 
         platoon('phase01_conflict01');
