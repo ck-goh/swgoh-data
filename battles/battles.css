@@ -36,7 +36,14 @@ svg.map path.active{stroke:#eef;fill:#99c}
 svg text{text-anchor:middle;alignment-baseline:middle;font-size:0.9vw;fill:white;text-shadow:#777 2px 2px;pointer-events:none}
 
 
-.platoons { flex:1 1 auto; display:flex; flex-direction: column; justify-content:space-evenly; margin-top: 2em; }
+.platoons {
+    flex:1 1 auto;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-items: center;
+    margin-top: 2em;
+}
 .platoon {
     margin: 0.25em;
     flex:0 0 auto;
@@ -79,15 +86,26 @@ svg text{text-anchor:middle;alignment-baseline:middle;font-size:0.9vw;fill:white
 .star-7{transform:translateX(-50%) rotate(60deg)}
 .portrait .name{display:none;width:100%;font-size:0.5vw;color:#fff;text-shadow:#888 1px 1px;text-align:center;line-height:1;height:30%}
 
-.planner [type="checkbox"] {
-    position: absolute;
-    left: -1000em;
+/* Possible states:
+ *      impossible:     '\1f6ab' forbidden
+ *      fill, clear:    '\2705' green check
+ *      fill, blocked:  '\274c' red X
+ *      no fill, clear: '\2b1c' gray box
+ *      no fill, block: '\274c' red X
+ */
+
+.planner span.impossible:before { content: '\1f6ab'; }
+.planner span.fill.clear:before { content: '\2705';  }
+.planner span.fill.block:before { content: '\274c';  }
+.planner span.skip.clear:before { content: '\2b1c';  }
+.planner span.skip.block:before { content: '\274c';  }
+
+.planner span {
+    width: 1.5em;
+    display: inline-block;
 }
 
-.planner [type="checkbox"]:checked + label:before {
-  content: '\2705';
+.planner span.clear {
+    cursor: pointer;
 }
 
-.planner [type="checkbox"]:not(:checked) + label:before {
-  content: '\26d4';
-}

@@ -30,13 +30,95 @@ Promise.all(['../units.json', 'guild-toons.json'].map(u => fetch(u).then(r => r.
 
         var planner = phase => {
             if (phase == planner.lastPhase) return;
+            planner.lastPhase = phase;
+
+            // Sectors for this phase
             var sectors = platoons.filter(p => p.name.startsWith("phase0" + phase));
-            console.log(phase, sectors);
-            $('.planner').empty();
-            sectors.forEach(sector => {
-              
+
+            // compute the guild's stock for all toons
+            var stock = {}, consumed = {};
+            Object.entries(guild).forEach(entry => {
+                stock[mkslug(entry[0])] = entry[1].filter(n => n > phase).length;
+                consumed[mkslug(entry[0])] = 0;
             });
-            //<input type="checkbox" id="sector-3-squad-5" checked><label for="sector-3-squad-5"></label>
+
+            // Compute used toons per sector/platoon
+            var used = sectors.map(sector => sector.platoons.map(platoon => {
+                var toons = {};
+                platoon.squads.forEach(squad => squad.members.forEach(toon => {
+                    var name = byId[toon].name;
+                    var slug = mkslug(name);
+                    if (toons[slug] === undefined) { toons[slug] = 0; }
+                    toons[slug]++;
+                }));
+                return toons;
+            }));
+
+            // each platoon is either clear, blocked, or impossible
+            var state = used.map(_ => [ 'clear', 'clear', 'clear', 'clear', 'clear', 'clear' ]);
+            // selection state
+            var choice = used.map(_ => [ '', '', '', '', '', '' ]);
+
+            var spans = [];
+
+            var clearConsumed = () => {
+                Object.entries(consumed).forEach(e => consumed[e[0]] = 0);
+            };
+
+            var updateConsumed = (si, pi) => {
+                if (choice[si][pi] !== 'fill' || state[si][pi] !== 'clear') return;
+                Object.entries(used[si][pi]).forEach(e => {
+                    consumed[e[0]] += e[1];
+                });
+            };
+
+            var toggleChoice = (si, pi) => evt => {
+                if (choice[si][pi] === 'skip' && state[si][pi] === 'clear') {
+                    choice[si][pi] = 'fill';
+                    computeState();
+                } else if (choice[si][pi] === 'fill' && state[si][pi] !== 'impossible') {
+                    choice[si][pi] = 'skip';
+                    computeState();
+                }
+            };
+
+            $('.planner').empty();
+            used.forEach((sector, si) => {
+                var sdiv = $('<div>').appendTo('.planner');
+                spans.push(sector.map((plat, pi) => $('<span>').appendTo(sdiv).click(toggleChoice(si, pi)) ));
+            });
+
+            // Update platoon states
+            var computeState = () => {
+                clearConsumed();
+                used.forEach((sector, si) => {
+                    sector.forEach((plat, pi) => {
+                        var e = Object.entries(plat);
+                        if (e.some(entry => stock[entry[0]] < entry[1])) {
+                            state[si][pi] = 'impossible';
+                        } else if (e.some(entry => stock[entry[0]] - consumed[entry[0]] < entry[1])) {
+                            state[si][pi] = 'block';
+                        } else {
+                            state[si][pi] = 'clear';
+                        }
+
+                        // auto-fill empty choices
+                        if (choice[si][pi] === '') {
+                            if (state[si][pi] === 'clear') {
+                                choice[si][pi] = 'fill';
+                            } else {
+                                choice[si][pi] = 'skip';
+                            }
+                        }
+
+                        updateConsumed(si, pi);
+
+                        spans[si][pi].attr('class', state[si][pi] + ' ' + choice[si][pi]);
+                    });
+                });
+            };
+            computeState();
+
         };
         planner.lastPhase = -1;
 
@@ -44,6 +126,7 @@ Promise.all(['../units.json', 'guild-toons.json'].map(u => fetch(u).then(r => r.
             var pnum = +pid.replace(/phase0(\d).*/, '$1');
             var p = platoons.filter(p => p.name === pid + "_recon01")[0].platoons;
             var toonips = {};
+            var sector = [];
             p.sort((a, b) => a.name.localeCompare(b.name));
             p.forEach(q => {
                 q.squads.sort((a, b) => a.name.localeCompare(b.name));
